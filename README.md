@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavya-24
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Computer science with specilization in Bioinformatics
+- 🌱 I do occasionaly code random apps
 
 
 
